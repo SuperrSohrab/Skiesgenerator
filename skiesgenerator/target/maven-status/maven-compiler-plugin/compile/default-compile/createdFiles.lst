@@ -1,0 +1,15 @@
+com/itzacat/generator/Generator.class
+com/itzacat/commands/GiveGeneratorCommand.class
+com/itzacat/generator/GeneratorTier.class
+com/itzacat/gui/GeneratorInteractionMenu.class
+com/itzacat/listeners/GeneratorListener.class
+com/itzacat/storage/GeneratorStorage.class
+com/itzacat/Plugin.class
+com/itzacat/generator/GeneratorManager.class
+com/itzacat/gui/GeneratorMenu.class
+com/itzacat/gui/GeneratorInteractionMenuListener.class
+com/itzacat/commands/GeneratorCommand.class
+com/itzacat/config/PricesConfig.class
+com/itzacat/tasks/GeneratorTask.class
+com/itzacat/listeners/ItemProtectionListener.class
+com/itzacat/commands/SellGenCommand.class

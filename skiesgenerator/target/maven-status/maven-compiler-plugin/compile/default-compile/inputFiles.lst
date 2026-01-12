@@ -1,0 +1,17 @@
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/Plugin.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/commands/BoostGenCommand.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/commands/GeneratorCommand.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/commands/GiveGeneratorCommand.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/commands/SellGenCommand.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/config/PricesConfig.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/generator/Generator.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/generator/GeneratorManager.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/generator/GeneratorTier.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/gui/GeneratorInteractionMenu.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/gui/GeneratorInteractionMenuListener.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/gui/GeneratorMenu.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/gui/GeneratorMenuListener.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/listeners/GeneratorListener.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/listeners/ItemProtectionListener.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/storage/GeneratorStorage.java
+/Users/sohrab/Desktop/               /VS-Code1/Flavortown/skiesgenerator/src/main/java/com/itzacat/tasks/GeneratorTask.java

@@ -1,0 +1,23 @@
+# SkiesGenerator Configuration
+
+# Drop mode: 'block' = items spawn on top of block, 'collect' = items are collected in generator menu
+# Warning: collect mode is still in beta and may have bugs, please do not contact support for issues related to it
+drop-mode: block
+
+# Maximum items that can be collected in a generator (only used when drop-mode is 'collect')
+max-storage: 64
+
+# How often generators produce items (in ticks, 20 ticks = 1 second)
+generation-interval: 100
+
+# Vault economy integration
+use-vault: true
+
+# Generator blocks cannot be placed normally
+prevent-placement: true
+
+# Generator drops cannot be sold in normal shops
+sellable-only-via-command: true
+
+# Maximum number of generators a single player can place (0 = unlimited)
+max-generators-per-player: 5

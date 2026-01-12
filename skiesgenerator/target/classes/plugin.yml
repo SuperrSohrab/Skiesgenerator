@@ -1,0 +1,52 @@
+name: SkiesGenerator
+main: com.itzacat.Plugin
+version: 1.0
+api-version: 1.20
+author: itzacat
+description: Advanced generator plugin with upgradeable tiers
+depend: [Vault]
+softdepend: [Vault]
+
+commands:
+  sellgen:
+    description: Sell all items collected from your generators
+    usage: /sellgen
+    permission: skiesgenerator.sell
+    permission-message: You don't have permission to use this command
+  generator:
+    description: Manage generators
+    usage: /generator <give|upgrade|info>
+    permission: skiesgenerator.use
+    permission-message: You don't have permission to use this command
+  givegenerator:
+    description: Give generator items to players
+    usage: /givegenerator <player> <tier> [amount]
+    permission: skiesgenerator.give
+    permission-message: You don't have permission to use this command
+    aliases: [givegens, ggen]
+  boostgen:
+    description: Give a multiplier booster to a player's generators
+    usage: /boostgen <player> <multiplier> <minutes>
+    permission: skiesgenerator.boost
+    permission-message: You don't have permission to use this command
+
+permissions:
+  skiesgenerator.*:
+    description: Gives access to all SkiesGenerator commands
+    children:
+      skiesgenerator.use: true
+      skiesgenerator.sell: true
+      skiesgenerator.give: true
+      skiesgenerator.upgrade: true
+  skiesgenerator.use:
+    description: Allows using basic generator commands
+    default: true
+  skiesgenerator.sell:
+    description: Allows selling generator items
+    default: true
+  skiesgenerator.give:
+    description: Allows giving generator items to players
+    default: op
+  skiesgenerator.upgrade:
+    description: Allows upgrading generators
+    default: true

@@ -1,0 +1,20 @@
+Blocks(generators) die je kan plaatsen waar spullen boven spawnen die niet kunnen worden verkocht in de normale shop, niet kunnen worden geplaatst en niet kunnen worden omgecraft
+de sellable spullen die zijn alleen maar te verkopen voor een pijs aanpasbaar in een prices.yml file met het command /sellgen
+upgradable generators met geld
+optie om vanuit config te kiezen voor drops op block of collectable loot in menu
+- als collectable in menu, optie om een max te zetten aan drops die kunnen verzamelen in de generator
+comparable met economy plugins zoals vault
+
+tiers: 
+Oak wood: drops dirt
+Smooth stone: drops cobblestone
+Reinforced deepslate: drops cobbles deepslate
+Chiseled tuff: drops tuff
+Coal block: drops coal
+Copper block: drops Copper ingot
+iron block: drops iron ingot
+gold block: drops gold ingot
+Redstone block: drops redstone block
+Amathyst block: drops Amathyst
+Emerald block: drops emerald
+Bedrock: resin clump
