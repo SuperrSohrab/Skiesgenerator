@@ -6,6 +6,7 @@
 
 - Build: `mvn -DskipTests package`
 - Install: place the generated JAR (`target/skiesgenerator-1.jar`) into your server `plugins/` folder and restart the server.
+- Also install [vault API](https://www.spigotmc.org/resources/vault.34315/) in order for the plugin to work 
 
 ## Configuration (`config.yml`)
 
